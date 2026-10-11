@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "spindoctor-qwerty-companion",
+  "version": "1.1.0",
+  "description": "SpinDoctor 3.1.2 quantum-circuit SIMULATOR as an Agent Plugins package, with an optional Windows launcher (the 'companion') that finds Python for the MCP server: q.* scripts (1-298 logical qubits), 241 presets, q.folder, theory testing, TXT/PDF/JSON/CSV reports. Classical FP64, not a quantum computer. Not a Midjourney integration (Midjourney has no plugin API).",
+  "author": {
+    "name": "RUSSELL PHILIP SMITHSON",
+    "email": "russellsmithson77@outlook.com"
+  },
+  "homepage": "https://github.com/LKVexa/spindoctor-qwerty-midjourney-companion",
+  "repository": "https://github.com/LKVexa/spindoctor-qwerty-midjourney-companion",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "spindoctor",
+    "quantum",
+    "quantum circuit",
+    "quantum-circuit",
+    "qubit",
+    "qubits",
+    "quantum simulator",
+    "simulator",
+    "bell state",
+    "ghz",
+    "qft",
+    "q.circuit",
+    "mcp",
+    "windows"
+  ]
+}
