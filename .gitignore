@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+server/*.exe
+server/BUILD_INFO.txt
+tests/e2e_results.json
+tests/host_check.json
+skills/spindoctor-qwerty/examples/theory/*.pdf
